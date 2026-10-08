@@ -22,3 +22,7 @@ total = total + 8;
 
 if (total > 10)
     {console.log("You get a free cookie!");
+} else {
+    console.log(Add $2 more for a free cookie!");
+```
+---
