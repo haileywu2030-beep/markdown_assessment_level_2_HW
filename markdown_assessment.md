@@ -1,7 +1,7 @@
 # Grand Opening: The Byte Bites Food Truck
 ![](https://fastly.picsum.photos/id/431/600/300.jpg?hmac=PgANs2KJcy1a1d1JZwkdwe8H6KnvKKfQ5TPC6aEwAvA)
 
-Welcome to **Byte Bites**, the first food truck run entirely by student coders! we serev fresh food in the morning and write code at night.
+Welcome to **Byte Bites**, the first food truck run *entirely* by student coders! we serev fresh food in the morning and write code at night.
 
 ---
 ## Today's Menu
@@ -30,3 +30,12 @@ if (total > 10)
 "Best chopped cheese in East Harlem, and the **free cookie** deal is *genius*!"
 
 ---
+## Find Us Online
+Follow our daily location on [Instagram](https://www.google.com/?safe=active&ssui=on&zx=1791480320798) or read our reviews on [Yelp.](https://www.google.com/?safe=active&ssui=on&zx=1791480320798)
+
+Want to build an app like ours? Start learning here:
+- [freeCodeCamp](https://www.google.com/?safe=active&ssui=on&zx=1791480320798)
+- [MDN Web Docs](https://developer.mozilla.org/en-US/)
+
+---
+`git push origin main` - the command we run everytime we add a new item on the menu!
