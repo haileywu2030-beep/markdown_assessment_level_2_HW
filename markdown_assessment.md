@@ -26,3 +26,7 @@ if (total > 10)
     console.log(Add $2 more for a free cookie!");
 ```
 ---
+> ## What Customers Are Saying
+"Best chopped cheese in East Harlem, and the **free cookie** deal is *genius*!"
+
+---
