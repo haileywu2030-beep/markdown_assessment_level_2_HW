@@ -21,4 +21,4 @@ let total = 0;
 total = total + 8;
 
 if (total > 10)
-    {console.log("You get a free)}
+    {console.log("You get a free cookie!");
